@@ -1,18 +1,18 @@
 @font-face {
   font-family: "DaveGibbonsRegular";
-  src: url("webfonts/DaveGibbonsRegular.woff") format("woff");
+  src: local("DaveGibbonsRegular"), url("webfonts/DaveGibbonsRegular.woff") format("woff");
   font-display: swap;
 }
 
 @font-face {
   font-family: "DaveGibbonsBoldItalic";
-  src: url("webfonts/DaveGibbonsBoldItalic.woff") format("woff");
+  src: local("DaveGibbonsBoldItalic"), url("webfonts/DaveGibbonsBoldItalic.woff") format("woff");
   font-display: swap;
 }
 
 @font-face {
   font-family: "CrimeFighterBB";
-  src: url("webfonts/CrimeFighterBB.woff") format("woff");
+  src: local("CrimeFighterBB"), url("webfonts/CrimeFighterBB.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
